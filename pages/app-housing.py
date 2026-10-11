@@ -13,7 +13,7 @@ def load_data():
 df = load_data()
 
 # ---------- 标题 ----------
-st.title("California Housing Data (1990) by 你的姓名")
+st.title("California Housing Data (1990) by Sun Youbei")
 
 # ---------- 滑块：筛选 median_house_value ----------
 min_value = st.slider(
